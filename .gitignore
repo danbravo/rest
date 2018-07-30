@@ -1,0 +1,12 @@
+# dirs
+/target
+/packages
+
+# logs
+*.log
+
+# stuff
+.idea/workspace.xml
+.DS_Store
+Thumbs.db
+.class
